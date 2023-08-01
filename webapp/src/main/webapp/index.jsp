@@ -31,15 +31,9 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning </h1>
+   <h1> Thankyou, Happy Learning Sandeep will become DevOps Engineer</h1>
 
   
 </form>
 
 
-<!SANDEEP SIR DEVOPS Tutorials>
-<html xmlns="http://www.google.in">
-    <body>
-        <script type="text/javascript" src="Menu.js" charset="utf-8"></script>
-    </body>
-</html>

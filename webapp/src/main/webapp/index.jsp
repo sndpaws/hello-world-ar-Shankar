@@ -31,7 +31,9 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning Sandeep will become DevOps Engineer</h1>
+   <h1> Thankyou, Happy Learning </h1>
+    <h1>Sandeep is DevOps Engineer</h1>
+    <h1>Please contact if you have any queries via sndpkmr8055@gmail.com</h1>
 
   
 </form>

@@ -35,7 +35,7 @@
    <br>
    <h1>Sandeep is DevOps Engineer</h1>
    <br>
-   <h1>Please contact if you have any queries via sndpkmr8055@gmail.com</h1>
+   <h1>Please contact me if you have any queries via sndpkmr8055@gmail.com</h1>
 
   
 </form>
